@@ -1,20 +1,16 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "2.0.0",
+    "name": "casper-ps",
+    "description": "My fork of Casper for http://www.petersharp.org",
+    "demo": "",
+    "version": "1.0",
     "engines": {
         "ghost": ">=1.0.0"
     },
     "license": "MIT",
-    "screenshots": {
-        "desktop": "assets/screenshot-desktop.jpg",
-        "mobile": "assets/screenshot-mobile.jpg"
-    },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Peter Sharp, after Ghost Foundation",
+        "email": "peter@petersharp.org",
+        "url": "https://www.petersharp.org"
     },
     "gpm": {
         "type": "theme",
@@ -29,10 +25,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "git@github.com:mrpsharp/Casper.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",

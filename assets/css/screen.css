@@ -29,7 +29,8 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 
 body {
-    background: #f4f8fb;
+    /*background: #f4f8fb; */
+    background: #FEFCEB;
 }
 
 .img {
@@ -98,8 +99,9 @@ body {
     position: relative;
     padding-top: 12px;
     padding-bottom: 12px;
-    color: #fff;
-    background: color(var(--darkgrey) l(-5%)) no-repeat center center;
+    /*color: #fff;*/
+    color: #FEFCEB;
+    background: color(#5E6E88 l(-5%)) no-repeat center center;
     background-size: cover;
 }
 
