@@ -6,6 +6,7 @@ into the {body} of the default.hbs template --}}
 <header>
   <div class="site-header outer {{#if @blog.cover_image}}" style="background-image: url({{@blog.cover_image}}){{else}}no-cover{{/if}}">
     <div class="inner">
+        {{> "site-nav"}}
         <div class="site-header-content">
             <h1 class="site-title">
                 {{#if @blog.logo}}
@@ -16,7 +17,7 @@ into the {body} of the default.hbs template --}}
             </h1>
             <h2 class="site-description">{{@blog.description}}</h2>
         </div>
-        {{> "site-nav"}}
+
     </div>
   </div>
 </header>

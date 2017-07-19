@@ -84,11 +84,11 @@ body {
     .author-template .post-feed {
         margin-top: -110px;
     }
-    .home-template .site-nav {
+    /*.home-template .site-nav {
         position: relative;
         top: -70px;
         z-index: 300;
-    }
+    }*/
 }
 
 
