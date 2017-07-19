@@ -101,7 +101,8 @@ body {
     padding-bottom: 12px;
     /*color: #fff;*/
     color: #FEFCEB;
-    background: color(#5E6E88 l(-5%)) no-repeat center center;
+    /*background: color(#5E6E88 l(-5%)) no-repeat center center;*/
+    background: #5E6E88;
     background-size: cover;
 }
 
@@ -1760,7 +1761,8 @@ Super neat trick courtesy of @JoelDrapper
     padding-top: 20px;
     padding-bottom: 60px;
     color: #fff;
-    background: color(var(--darkgrey) l(-15%));
+    /*background: color(var(--darkgrey) l(-15%));*/
+    background: #5E6E88;
 }
 
 .site-footer-content {
