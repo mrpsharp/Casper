@@ -594,7 +594,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     padding: 70px 100px 0;
     min-height: 230px;
     font-family: Georgia, serif;
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     line-height: 1.6em;
     background: #fff;
 }
@@ -606,7 +606,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 @media (max-width: 800px) {
     .post-full-content {
-        font-size: 1.9rem;
+        font-size: 1.8rem;
     }
 }
 
@@ -719,7 +719,7 @@ Super neat trick courtesy of @JoelDrapper
     padding: 1.5em 0;
     border: 0;
     color: var(--blue);
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 1.6em;
     text-align: center;
 }
@@ -805,15 +805,15 @@ Super neat trick courtesy of @JoelDrapper
 }
 
 .post-full-content h1 {
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 .post-full-content h2 {
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 
 .post-full-content h3 {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
 }
 
 .post-full-content h4 {
