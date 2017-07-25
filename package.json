@@ -2,7 +2,7 @@
     "name": "casper-ps",
     "description": "My fork of Casper for http://www.petersharp.org",
     "demo": "",
-    "version": "1.2",
+    "version": "1.2.0",
     "engines": {
         "ghost": ">=1.0.0"
     },
